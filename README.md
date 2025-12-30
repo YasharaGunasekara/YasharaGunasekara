@@ -47,19 +47,6 @@ Welcome to my GitHub profile! I'm a passionate Software Engineering graduate spe
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YasharaGunasekara&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Yashara's GitHub stats" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasharaGunasekara&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasharaGunasekara&theme=radical" alt="GitHub Streak" />
-  
-</div>
-
 ---
 
 ## 📫 Connect With Me
