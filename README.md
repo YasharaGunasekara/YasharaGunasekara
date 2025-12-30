@@ -61,11 +61,6 @@ Welcome to my GitHub profile! I'm a passionate Software Engineering graduate spe
 </div>
 
 ---
-
-## 📈 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=YasharaGunasekara&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 ## 📫 Connect With Me
@@ -108,8 +103,6 @@ Welcome to my GitHub profile! I'm a passionate Software Engineering graduate spe
 <div align="center">
   
   <img src="https://komarev.com/ghpvc/?username=YasharaGunasekara&color=blueviolet&style=flat-square" alt="Profile Views" />
-  
-  *Last updated: March 2024*
 
 
 </div>
