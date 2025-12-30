@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate Software Engineering graduate spe
 - 🎓 **Recent Graduate** with BEng in Software Engineering
 - 💻 **Full-Stack Developer** specializing in modern web technologies
 - 🎨 **UI/UX Designer** focused on creating intuitive user experiences
-- 🌱 Learning **React.js**, **TypeScript**, and advanced **.NET** frameworks
+- 🌱 Learning **Laravel**, **Angular**, and advanced **TypeScript** patterns
 - 👯 Open to **collaborations** on innovative projects and internships
 - ⚡ Fun fact: I can prototype faster in Figma than I can decide on color schemes!
 
@@ -61,7 +61,6 @@ Welcome to my GitHub profile! I'm a passionate Software Engineering graduate spe
 </div>
 
 ---
----
 
 ## 📫 Connect With Me
 
@@ -77,14 +76,15 @@ Welcome to my GitHub profile! I'm a passionate Software Engineering graduate spe
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Learning & Exploring
 
 <div align="center">
   
-  ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
   
 </div>
 
@@ -93,16 +93,15 @@ Welcome to my GitHub profile! I'm a passionate Software Engineering graduate spe
 ## 💼 Professional Services
 
 - **UI/UX Design** - Figma prototypes, wireframing, user research
-- **Full-Stack Development** - MERN stack, .NET, Python/Django
+- **Full-Stack Development** - React.js, Node.js, .NET, Python/Django
 - **Database Design** - MongoDB, SQL Server, MySQL optimization
 - **Frontend Development** - React.js, TypeScript, responsive design
-- **API Development** - REST APIs, integration, documentation
+- **API Development** - REST APIs with Express.js & .NET, integration, documentation
 
 ---
 
 <div align="center">
   
   <img src="https://komarev.com/ghpvc/?username=YasharaGunasekara&color=blueviolet&style=flat-square" alt="Profile Views" />
-
 
 </div>
